@@ -2,3 +2,10 @@ scala集合三大类
  Seq 序列
  Set 集
  Map 映射
+
+ Scala数据类型
+ Int Byte Short Long Float Double Char Boolean String
+
+ lazy关键字
+ 惰性变量，会延时加载，且只有在调用惰性变量时才会去加载这个变量
+
